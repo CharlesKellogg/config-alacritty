@@ -5,7 +5,7 @@ import = [
 [font]
 size = 14
 [font.normal]
-family = "Terminess Nerd Font"
+family = "Fira Code"
 
 [mouse]
 hide_when_typing = true
